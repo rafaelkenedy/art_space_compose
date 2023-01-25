@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space Compose</string>
+    <string name="monalisa">Monalisa</string>
+    <string name="leonardo_da_vinci">Leonardo da Vinci</string>
+    <string name="edvard_munch">Edvard Munch</string>
+    <string name="thescream">The Scream</string>
+    <string name="salvatormundi">Salvator Mundi</string>
+    <string name="year_monalisa">1503</string>
+    <string name="year_thescream">1893</string>
+    <string name="year_salvatormundi">1490</string>
+</resources>
